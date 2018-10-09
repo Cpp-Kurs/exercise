@@ -1,6 +1,8 @@
 #ifndef VECTOR_H_
 #define VECTOR_H_
 
+#include <iostream>
+
 struct Vector3f {
   float x, y, z;
 };

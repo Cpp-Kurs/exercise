@@ -29,6 +29,6 @@ int main(int argc, char** argv){
 	std::cout << "\nx * y = " << x * y;
 	std::cout << "\nnorm x = " << norm(x);
 	std::cout << "\nnorm y = " << norm(y);
-	std::cout << "\nangle = " << angle(x,y);
+	std::cout << "\nangle = " << angle(x,y) << std::endl;
 
 }
